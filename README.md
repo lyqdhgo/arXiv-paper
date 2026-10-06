@@ -7,6 +7,7 @@
 ![arXiv](https://img.shields.io/badge/arXiv-cs.AI%20%7C%20cs.CL%20%7C%20cs.LG-B31B1B?style=flat-square&logo=arxiv&logoColor=white)
 ![Notes](https://img.shields.io/badge/形式-阅读笔记%20%7C%20速览%20%7C%20复现记录-4D6BFE?style=flat-square)
 ![Status](https://img.shields.io/badge/状态-持续更新中-yellow?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
 
 [怎么记](#怎么记) · [笔记索引](#笔记索引) · [速览模板](#速览模板) · [推荐论文源](#推荐论文源)
 
